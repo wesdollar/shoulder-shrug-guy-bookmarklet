@@ -12,4 +12,4 @@ Bookmarklet opens a default browser alert dialog containing the text to copy tha
 5. Press Save
 
 # Bookmark Setup URL
-  javascript:(function() { return window.prompt("Copy to clipboard: Ctrl+C, Enter", "¯\\_(ツ)_/¯"); })();
+    javascript:(function() { return window.prompt("Copy to clipboard: Ctrl+C, Enter", "¯\\_(ツ)_/¯"); })();
