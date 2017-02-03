@@ -2,7 +2,7 @@
 Simple bookmarklet to easily copy shoulder shrug guy to your clipboard for use wherever. 
 
 ## Use
-Bookmarklet opens a default browser alert dialog containing the text to copy that makes up the popular shoulder shrug guy kaomoji. Simply press ctrl + c to copy to clipboard then enter to close the dialog box.
+Bookmarklet to open a default browser alert dialog containing the text to copy that makes up the popular shoulder shrug guy kaomoji. Simply press ctrl + c to copy to clipboard then press 'enter' to close the dialog box. Paste the shruggie anywhere your heart so desires.
 
 ## Installation (specific to Chrome but easily adapted to others)
 1. Right-click on bookmark toolbar, select "Add page," or add page from within your browser's bookmark manager.
